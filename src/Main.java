@@ -12,7 +12,7 @@ public class Main {
         if(in.hasNextInt()) {
             cel = in.nextInt();
 
-            faren = cel * (9 / 5) + 32;
+            faren = cel * ((double) 9 / 5) + 32;
 
             if (faren == 212)
             {
