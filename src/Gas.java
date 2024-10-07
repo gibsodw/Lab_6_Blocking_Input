@@ -73,5 +73,6 @@ public class Gas {
 
         System.out.println("The total cost of a 100 mile trip would be " + cost);
         System.out.println("The total distance you can drive is " + mpg);
+
     }
 }
