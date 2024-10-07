@@ -34,6 +34,7 @@ public class Main {
             trash = in.nextLine();
             System.out.println("You entered " + trash);
             System.out.println("Rerun the program and do proper input. ");
+
         }
     }
 }
